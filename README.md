@@ -91,10 +91,10 @@ This script is designed for a Debian-based Linux environment (like Kali Linux, U
 2.  **Get the Script:**
     Clone this repository:
     ```bash
-    git clone https://github.com/its-me-arjun-0007/Boot-Animation-Generator-Test
+    git clone https://github.com/its-me-arjun-0007/Boot-Animation
     ```
     ```
-    cd Boot-Animation-Generator-Test
+    cd Boot-Animation
     ```
 
 3.  **Make the Script Executable:**
