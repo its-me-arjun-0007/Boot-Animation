@@ -91,7 +91,7 @@ This script is designed for a Debian-based Linux environment (like Kali Linux, U
 2.  **Get the Script:**
     Clone this repository:
     ```bash
-    git clone https://github.com/its-me-arjun-0007/Boot-Animation
+    git clone https://github.com/its-me-arjun-0007/Boot-Animation.git
     ```
     ```
     cd Boot-Animation
